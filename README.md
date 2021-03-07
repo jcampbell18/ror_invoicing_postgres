@@ -67,7 +67,7 @@
 
 - `rails g scaffold ExpenseCategory name:string{50} description:string{250}`
 
-- `rails g scaffold Vehicle man_year:integer{4} make:string{50} model:string{50} sub_model:string{50} engine:string{50} notes:string{150}`
+- `rails g scaffold Vehicle manufacturer_year:integer{4} make:string{50} model:string{50} sub_model:string{50} engine:string{50} notes:string{150}`
 
 - `rails g scaffold Sku name:string{50} description:string{250}`
 
